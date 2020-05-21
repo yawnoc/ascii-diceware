@@ -1,6 +1,6 @@
 # ASCII Diceware
 
-Character list for ASCII Diceware.
+[Character list for ASCII Diceware.](ascii-diceware.txt)
 
 Three dice are required.
 If a toss returns `346` or higher, or corresponds to a character
